@@ -37,5 +37,5 @@
    
  ## Deployment instructions
   1. The deployment can only be done by FTP, but before uploading your files you need to make sure that the VPN was running
-  2. Check to Jim or Wesley about the access on the VPN
+
 
