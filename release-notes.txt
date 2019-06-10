@@ -1,0 +1,40 @@
+Coverage Insights v3.0
+    + Video Conference App  (Audio, Video, Screen Sharing)
+
+Coverage Insights v2.5
+	+ Email Template Editor (Needs Assessment and CIR)
+	+ Virtual Incentives Implementation - Gift Cards
+	
+Coverage Insights v2.0
+	+ New Features and Fixed bugs (from v1.5)
+	+ Staff Management
+	+ Billing Module
+	+ Admin Access
+	+ Promo Management
+
+
+Coverage Insights v1.5 new features and fixed bugs (from v1.0)
+	==Resource Manager==	
+	Need assets
+	UI on account manager no upload but list policy type assets and allow for preview
+	UI on explanation page 
+	Added: CIR Email Report template
+	Added: Attaching Resource Link to PDF output and Email
+	Added: Resource Upload in Account Setup (reported in Skype)
+	Added: Custom label for Resource
+		
+	==Usage Report==	
+	Date, time, Account, Page URL
+		
+	==Help!==	
+	Grid view and excel export for logged issues
+		
+	==Customer Listing==	
+	Added:   Import list from excel
+		
+	==Action Items==	
+	Added: Export gridview to excel
+		
+	==Account Setup==	
+	Added: Change email domain to "@coverage-insight.com"
+	Added: Change project name and dependecies from "agencythrive" into "coverage-insights"

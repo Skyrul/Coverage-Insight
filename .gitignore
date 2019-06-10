@@ -1,0 +1,43 @@
+assets/*
+topdf/*
+feedback/*
+pdf/cir_*.pdf
+report_gen/*
+uploads/*.png
+uploads/*.gif
+uploads/*.jpg
+uploads/images/*.png
+uploads/images/*.gif
+uploads/images/*.jpg
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/schema.*.db
+protected/data/schema.*.sql
+themes/classic/views/
+*.zip
+test.php
+
+# Ignore Build files
+build/*
+
+# Ignore NPM modules
+/node_modules/
+
+# Ignore Yii 1.1.16
+/yii16/
+
+# Ignore Netbeans IDE settings
+/nbproject/private/
+/tools.agencythriveprogram.com/nbproject/private/
+
+# Ignore Eclipse created directory
+.buildpath
+.metadata
+.project
+.settings
+
+# Ignore Visual Studio Code IDE settings
+.vscode
+
+# Custom
+test*.php
